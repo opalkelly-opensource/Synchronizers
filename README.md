@@ -1,3 +1,7 @@
+# * Repository moved to design-resources *
+[Synchronizer new location](https://github.com/opalkelly-opensource/design-resources/tree/main/HDLComponents/Synchronizers)
+
+
 Synchronizer Collection
 =======================
 This repository contains a collection of useful synchronizers that can
